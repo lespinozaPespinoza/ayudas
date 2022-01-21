@@ -18,3 +18,6 @@ https://visualstudio.microsoft.com/es/vs/compare/
 
 - Chat online con socket.io y React
 https://github.com/anurag-creator/React-Application/tree/master/server
+
+- Chat online con .net Core 3, react y signalR
+- https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6
