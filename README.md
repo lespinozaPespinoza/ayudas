@@ -20,4 +20,7 @@ https://visualstudio.microsoft.com/es/vs/compare/
 https://github.com/anurag-creator/React-Application/tree/master/server
 
 - Chat online con .net Core 3, react y signalR
-- https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6
+https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6
+
+- Metricas mas importantes
+https://es.shopify.com/blog/15844916-principales-metricas-para-medir-el-rendimiento-de-una-tienda-en-linea?utm_source=exacttarget&utm_medium=email&utm_campaign=blog&utm_content=sp_all 
