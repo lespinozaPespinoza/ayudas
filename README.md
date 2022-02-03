@@ -24,3 +24,6 @@ https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-a
 
 - Metricas mas importantes
 https://es.shopify.com/blog/15844916-principales-metricas-para-medir-el-rendimiento-de-una-tienda-en-linea?utm_source=exacttarget&utm_medium=email&utm_campaign=blog&utm_content=sp_all  
+
+- Drag and drop con React 
+https://www.dofleini.com/arrastrar-y-soltar-usando-react-beautiful-dnd/
