@@ -27,3 +27,7 @@ https://es.shopify.com/blog/15844916-principales-metricas-para-medir-el-rendimie
 
 - Drag and drop con React 
 https://www.dofleini.com/arrastrar-y-soltar-usando-react-beautiful-dnd/
+
+- la biblia de nubes gratuitas.
+https://gist.github.com/bmaupin/d2d243218863320b01b0c1e1ca0cf5f3
+https://free-for.dev/#/?id=major-cloud-providers
